@@ -1,4 +1,4 @@
-# Description
+# Greetings!
 
 Welcome to our GitHub resource repository for the CIT class of TCAT Crump! This repository is designed to provide you with a collection of useful resources that will help you succeed in your studies and be competitive in SkillsUSA.
 
